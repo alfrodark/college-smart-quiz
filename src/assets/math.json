@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "imageUrl": "../assets/images/photos/question1/fraction1.png",
+      "question": "Identify the fraction above:",
+      "options": ["5/9", "3/8", "4/5", "6/8"],
+      "correctAnswer": "6/8",
+      "selectedAnswer": null
+    },
+    {
+      "id": 2,
+      "imageUrl": "../assets/images/photos/question1/fraction2.png",
+      "question": "Identify the fraction above:",
+      "options": ["1/1", "2/4", "3/3", "1/3"],
+      "correctAnswer": "3/3",
+      "selectedAnswer": null
+    },
+    {
+      "id": 3,
+      "imageUrl": "../assets/images/photos/question1/fraction3.png",
+      "question": "Identify the fraction above:",
+      "options": ["9/9", "1/8", "3/9", "4/6" ],
+      "correctAnswer": "9/9",
+      "selectedAnswer": null
+    },
+    {
+      "id": 4,
+      "imageUrl": "../assets/images/photos/question1/add1.png",
+      "question": "Solve the above:",
+      "options": ["62", "51", "61", "34"],
+      "correctAnswer": "61",
+      "selectedAnswer": null
+    },
+    {
+      "id": 5,
+      "imageUrl": "../assets/images/photos/question1/add2.png",
+      "question": "Solve the above:",
+      "options": ["39", "93", "53", "54"],
+      "correctAnswer": "93",
+      "selectedAnswer": null
+    },
+    {
+      "id": 6,
+      "imageUrl": "../assets/images/photos/question1/add3.png",
+      "question": "Solve the above:",
+      "options": ["94", "64", "49", "66"],
+      "correctAnswer": "94",
+      "selectedAnswer": null
+    },
+    {
+      "id": 7,
+      "imageUrl": "../assets/images/photos/question1/fraction9.png",
+      "question": "What fraction of the squares are white?",
+      "options": ["4/6", "2/6", "2/3", "3/5"],
+      "correctAnswer": "2/6",
+      "selectedAnswer": null
+    },
+    {
+      "id": 8,
+      "imageUrl": "../assets/images/photos/question1/fraction10.png",
+      "question": "What fraction of the arrows point up?",
+      "options": ["3/6", "3/5", "6/6", "1/3"],
+      "correctAnswer": "3/6",
+      "selectedAnswer": null
+    },
+    {
+      "id": 9,
+      "imageUrl": "../assets/images/photos/question1/fillin1.png",
+      "question": "Fill in the missing number.",
+      "options": ["4", "8", "2", "9"],
+      "correctAnswer": "2",
+      "selectedAnswer": null
+    },
+    {
+      "id": 10,
+      "imageUrl": "../assets/images/photos/question1/fillin2.png",
+      "question": "Fill in the missing number.",
+      "options": ["12", "4", "3", "7"],
+      "correctAnswer": "7",
+      "selectedAnswer": null
+    },
+    {
+      "id": 11,
+      "imageUrl": "../assets/images/photos/question1/fillin3.png",
+      "question": "Fill in the missing number.",
+      "options": ["10", "7", "14", "8"],
+      "correctAnswer": "10",
+      "selectedAnswer": null
+    },
+    {
+      "id": 12,
+      "imageUrl": "../assets/images/photos/question1/subtract1.png",
+      "question": "Solve the above:",
+      "options": ["61", "51", "42", "81"],
+      "correctAnswer": "61",
+      "selectedAnswer": null
+    },
+    {
+      "id": 13,
+      "imageUrl": "../assets/images/photos/question1/mathProblem1.png",
+      "question": "How many students are there in the class?",
+      "options": ["9", "20", "35", "75"],
+      "correctAnswer": "20",
+      "selectedAnswer": null
+    },
+    {
+      "id": 14,
+      "imageUrl": "../assets/images/photos/question1/mathProblem1.png",
+      "question": "Each group should have 2 pairs of scissors. How many pairs of scissors are needed in total?",
+      "options": ["10", "12", "7", "15"],
+      "correctAnswer": "10",
+      "selectedAnswer": null
+    },
+    {
+      "id": 15,
+      "imageUrl": "../assets/images/photos/question1/subtract3.png",
+      "question": "Solve the above:",
+      "options": ["74", "47", "55", "38"],
+      "correctAnswer": "47",
+      "selectedAnswer": null
+    },
+    {
+      "id": 16,
+      "imageUrl": "../assets/images/photos/question1/subtract5.png",
+      "question": "Solve the above:",
+      "options": ["22", "33", "21", "45"],
+      "correctAnswer": "22",
+      "selectedAnswer": null
+    },
+    {
+      "id": 17,
+      "imageUrl": "../assets/images/photos/question1/subtract4.png",
+      "question": "Solve the above:",
+      "options": ["12", "11", "17", "53"],
+      "correctAnswer": "11",
+      "selectedAnswer": null
+    },
+    {
+      "id": 18,
+      "imageUrl": "../assets/images/photos/question1/mathProblem2.png",
+      "question": "How many customers visited the post office on Saturday?",
+      "options": ["50", "64", "56", "74"],
+      "correctAnswer": "50",
+      "selectedAnswer": null
+    },
+    {
+      "id": 19,
+      "imageUrl": "../assets/images/photos/question1/mathProblem3.png",
+      "question": "How many letters could be mailed out successfully?",
+      "options": ["71", "64", "55", "63"],
+      "correctAnswer": "64",
+      "selectedAnswer": null
+    },
+    {
+      "id": 20,
+      "imageUrl": "../assets/images/photos/question1/mathProblem4.png",
+      "question": "How many parcels are left in the post office?",
+      "options": ["32", "33", "52", "63"],
+      "correctAnswer": "33",
+      "selectedAnswer": null
+    }
+
+  ]
+}

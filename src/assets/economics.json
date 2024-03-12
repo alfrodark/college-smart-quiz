@@ -1,0 +1,490 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "question": "Economics deals primarily with the concept of:",
+      "options": ["change.", "power", "poverty", "scarcity"],
+      "correctAnswer": "scarcity",
+      "selectedAnswer": null
+    },
+    {
+      "id": 2,
+      "imageUrl": "",
+      "question": "Scarcity exists when",
+      "options": ["the price of a good rises.", "society can meet the wants of every individual.",
+      "there is less of a good or resource available than people wish to have.", "there is less than an infinite amount of a resource or good."],
+      "correctAnswer": "there is less of a good or resource available than people wish to have.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 3,
+      "imageUrl": "",
+      "question": "Economics is defined as the study of",
+      "options": ["how society manages its scarce resources.", "business.", "central planning.", "government regulation." ],
+      "correctAnswer": "how society manages its scarce resources.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 4,
+      "imageUrl": "",
+      "question": "A good definition of equity would be",
+      "options": ["efficiency.", "eliminating extreme affluence.", "fairness.", "everyone receiving the same income."],
+      "correctAnswer": "fairness.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 5,
+      "imageUrl": "",
+      "question": "When government policies are being designed,",
+      "options": ["increasing efficiency usually results in more equity.",
+      "there is usually a tradeoff between equity and efficiency.",
+      "equity can usually be achieved without an efficiency loss.", "equity and efficiency goals are usually independent of each other."],
+      "correctAnswer": "there is usually a tradeoff between equity and efficiency.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 6,
+      "imageUrl": "",
+      "question": "The opportunity cost of an item is",
+      "options": ["what you give up to get that item.", "always equal to the dollar value of the item.",
+      "always less than the dollar value of the item.", "the number of hours needed to earn the money to buy it."],
+      "correctAnswer": "what you give up to get that item.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 7,
+      "imageUrl": "",
+      "question": "Ryan spends an hour studying instead of going for a bike ride. The opportunity cost to him of studying is",
+      "options": ["the improvement in his grades from studying for the hour.",
+      "the enjoyment and exercise he would have received had he gone for a bike ride.",
+      "the difference between the improvement in his grades from studying minus the enjoyment of a bike ride.",
+      "zero. Since Ryan chose to study rather than to ride his bike, the value of studying must have been greater than the value of the bike ride."],
+      "correctAnswer": "the enjoyment and exercise he would have received had he gone for a bike ride.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 8,
+      "imageUrl": "",
+      "question": "A rational decision maker takes an action only if the",
+      "options": ["marginal benefit is greater than the marginal cost.",
+      "average benefit is greater than the average cost.",
+      "marginal benefit is less than the marginal cost.",
+      "marginal benefit is greater than both the average cost and the marginal cost."],
+      "correctAnswer": "marginal benefit is greater than the marginal cost.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 9,
+      "imageUrl": "",
+      "question": "A marginal change is a",
+      "options": ["long-term trend.", "change for the worse.", "small incremental adjustment.",
+      "large, significant adjustment."],
+      "correctAnswer": "small incremental adjustment.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 10,
+      "imageUrl": "",
+      "question": "Economists understand that people respond to",
+      "options": ["the wishes of policymakers.", "tax breaks, but not tax hikes.",
+      "threats more than rewards.", "incentives."],
+      "correctAnswer": "incentives.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 11,
+      "imageUrl": "",
+      "question": "Which is the most accurate statement about trade?",
+      "options": ["Trade can make every nation better off.",
+      "Trade makes some nations better off and others worse off.",
+      "Trade helps rich nations and hurts poor nations.",
+      "Trading for a good can make a nation better off only if the nation cannot produce that good."],
+      "correctAnswer": "Trade can make every nation better off.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 12,
+      "imageUrl": "",
+      "question": "If Canada is better than the United States at producing hockey sticks, but the United States is better than Canada at producing roller blades, the United States should",
+      "options": ["put a quota on the amount of Canadian hockey sticks imported.",
+      "subsidize its hockey stick industry so that it can compete with Canadian hockey sticks.",
+      "sell roller blades to Canada, and buy Canadian hockey sticks.",
+      "impose a tariff on Canadian hockey sticks in order to protect jobs in the U.S. roller blade industry."],
+      "correctAnswer": "sell roller blades to Canada, and buy Canadian hockey sticks.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 13,
+      "imageUrl": "",
+      "question": "In a market economy, economic activity is guided by",
+      "options": ["the government.", "corporations.", "central planners.", "prices."],
+      "correctAnswer": "prices.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 14,
+      "imageUrl": "",
+      "question": "One advantage market economies have over central planning is that market economies",
+      "options": ["solve the problem of scarcity.", "are more efficient.",
+      "establish government economic control.",
+      "provide an equal distribution of goods and services to consumers."],
+      "correctAnswer": "are more efficient.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 15,
+      "imageUrl": "",
+      "question": "The term market failure refers to",
+      "options": ["an unsuccessful advertising campaign.",
+      "a situation in which the market on its own fails to allocate resources efficiently.",
+      "a situation in which competition among firms becomes ruthless.",
+      "a firm which is forced out of business because of losses."],
+      "correctAnswer": "a situation in which the market on its own fails to allocate resources efficiently.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 16,
+      "imageUrl": "",
+      "question": "An externality is the impact of",
+      "options": ["a person’s actions on that person’s well-being.",
+      "society’s decisions on the well-being of society.",
+      "one person’s actions on the well-being of a bystander.",
+      "society’s decisions on the well-being of one person."],
+      "correctAnswer": "one person’s actions on the well-being of a bystander.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 17,
+      "imageUrl": "",
+      "question": "If a copper refinery does NOT bear the entire cost of the smoke it emits, it will",
+      "options": ["emit too much smoke.", "emit lower levels of smoke.",
+      "emit an acceptable level of smoke.",
+      "eliminate all smoke so as to avoid the entire cost of the smoke."],
+      "correctAnswer": "emit too much smoke.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 18,
+      "imageUrl": "",
+      "question": "The two best reasons for a government to intervene in a market are to",
+      "options": ["promote equity and to raise revenues.",
+      "promote equity and to promote efficiency.", "promote efficiency and to raise revenues.",
+      "raise revenues and to promote stability."],
+      "correctAnswer": "promote equity and to promote efficiency.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 19,
+      "imageUrl": "",
+      "question": "Market power refers to the",
+      "options": ["power of the government to regulate a market.",
+      "relative importance of a market to the overall economy.",
+      "power of a single person (or small group of people) to unduly influence market prices.",
+      "ability of a person or group of people to successfully market new products."],
+      "correctAnswer": "power of a single person (or small group of people) to unduly influence market prices.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 20,
+      "imageUrl": "",
+      "question": "The income of a typical worker in a country is most closely linked to which of the following?",
+      "options": ["population", "government policies", "labor unions", "productivity"],
+      "correctAnswer": "productivity",
+      "selectedAnswer": null
+    },
+    {
+      "id": 21,
+      "imageUrl": "",
+      "question": "Almost all variation in living standards is attributable to differences in countries’",
+      "options": ["population growth rates.", "endowments of natural resources.",
+      "defense budgets.", "productivity."],
+      "correctAnswer": "productivity.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 22,
+      "imageUrl": "",
+      "question": "Productivity is defined as the",
+      "options": ["amount of goods and services produced from each hour of a worker’s time.",
+      "number of workers required to produce a given amount of goods and services.",
+      "amount of labor which can be saved by replacing workers with machines.",
+      "actual amount of effort workers put into an hour of working time."],
+      "correctAnswer": "amount of goods and services produced from each hour of a worker’s time.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 23,
+      "imageUrl": "",
+      "question": "Inflation is defined as",
+      "options": ["a period of rising productivity in the economy.",
+      "an increase in the overall level of prices in the economy.",
+      "a period of rising income in the economy.",
+      "an increase in the overall level of output in the economy."],
+      "correctAnswer": "an increase in the overall level of prices in the economy.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 24,
+      "imageUrl": "",
+      "question": "Inflation causes",
+      "options": ["productivity to increase.", "the value of money to rise.",
+      "the value of money to fall.", "the government to lower taxes."],
+      "correctAnswer": "the value of money to fall.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 25,
+      "imageUrl": "",
+      "question": "Which of the following is the most correct statement about the relationship between inflation and unemployment?",
+      "options": ["In the long run, reducing inflation is associated with rising unemployment.",
+      "In the short run, reducing inflation is associated with falling unemployment.",
+      "In the long run, reducing inflation is associated with falling unemployment.",
+      "In the short run, reducing inflation is associated with rising unemployment."],
+      "correctAnswer": "In the short run, reducing inflation is associated with rising unemployment.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 26,
+      "imageUrl": "",
+      "question": "The production possibilities frontier is a",
+      "options": ["map which shows the frontier beyond which agriculture is unprofitable.",
+      "map which shows areas of the world in which capitalist production is now possible.",
+      "graph that shows the various combinations of output that the economy can possibly produce given the available resources and technology.",
+      "graph which shows the various combinations of resources that can be used to produce a given level of output."],
+      "correctAnswer": "graph that shows the various combinations of output that the economy can possibly produce given the available resources and technology.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 27,
+      "imageUrl": "",
+      "question": "Which of the following concepts is NOT illustrated by the production possibilities frontier?",
+      "options": ["efficiency", "opportunity cost", "equity", "tradeoffs"],
+      "correctAnswer": "equity",
+      "selectedAnswer": null
+    },
+    {
+      "id": 28,
+      "imageUrl": "../assets/images/photos/question1/Q2a3.png",
+      "question": "On the production possibilities frontier shown, which point or points are possible for this economy to produce?",
+      "options": ["A, B, C, D", "A, B, C, F", "A, B, C, D, E, F", "D"],
+      "correctAnswer": "A, B, C, D",
+      "selectedAnswer": null
+    },
+    {
+      "id": 29,
+      "imageUrl": "../assets/images/photos/question1/Q2a3.png",
+      "question": "On the production possibilities frontier shown, which point or points are inefficient?",
+      "options": ["A, B, C", "E, F", "B", "D"],
+      "correctAnswer": "D",
+      "selectedAnswer": null
+    },
+    {
+      "id": 30,
+      "imageUrl": "",
+      "question": "The opportunity cost of obtaining more of one good is shown on the production possibilities frontier as the",
+      "options": ["amount of the other good which must be given up.",
+      "market price of the additional amount produced.",
+      "amount of resources which must be devoted to its production.",
+      "number of dollars which must be spent to produce it."],
+      "correctAnswer": "amount of the other good which must be given up.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 31,
+      "imageUrl": "",
+      "question": "A production possibilities frontier will be linear and not bowed out if",
+      "options": ["no tradeoffs exist.",
+      "the tradeoff between the two goods is always at a constant rate.",
+      "the unemployment rate is zero.", "resources are allocated efficiently."],
+      "correctAnswer": "the tradeoff between the two goods is always at a constant rate.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 32,
+      "imageUrl": "../assets/images/photos/question1/Q2a7.png",
+      "question": "In the production possibilities frontier shown, the shift of the frontier from A to B was most likely caused by which of the following?",
+      "options": ["more capital available in the economy",
+      "more labor available in the economy", "a general technological breakthrough",
+      "technological improvement in the production of clothing"],
+      "correctAnswer": "technological improvement in the production of clothing",
+      "selectedAnswer": null
+    },
+    {
+      "id": 33,
+      "imageUrl": "../assets/images/photos/question1/Q2a8.png",
+      "question": "In the production possibilities frontier shown, what is the opportunity cost to society of the movement from point D to point B?",
+      "options": ["600 pretzels", "800 pretzels", "250 pretzels", "100 pretzels"],
+      "correctAnswer": "250 pretzels",
+      "selectedAnswer": null
+    },
+    {
+      "id": 34,
+      "imageUrl": "../assets/images/photos/question1/Q2a8.png",
+      "question": "In the production possibilities frontier shown, the movement from point C to point E was most likely caused by",
+      "options": ["an increase in society’s preference for pretzels.",
+      "a decrease in society’s preference for potato chips.", "unemployment.", "a and b"],
+      "correctAnswer": "unemployment.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 35,
+      "imageUrl": "",
+      "question": "Which of the following would be considered a topic of study in microeconomics?",
+      "options": ["the effect of changes in saving rates on GDP",
+      "the impact of minimum-wage laws on employment in the fast-food industry",
+      "the impact of monetary policy on the rate of inflation",
+      "the effect of tax policy on the rate of economic growth"],
+      "correctAnswer": "the impact of minimum-wage laws on employment in the fast-food industry",
+      "selectedAnswer": null
+    },
+    {
+      "id": 36,
+      "imageUrl": "../assets/images/photos/question1/Q2a11.png",
+      "question": "In the graph shown, the slope of the curve between points A and B is",
+      "options": ["–2", "–1/2", "1/2", "2"],
+      "correctAnswer": "–1/2",
+      "selectedAnswer": null
+    },
+    {
+      "id": 37,
+      "imageUrl": "",
+      "question": "Since economists are unable to obtain economic data by conducting experiments, they generally must",
+      "options": ["do without data.", "use whatever data the world gives them.",
+      "select a committee of economists to make up data for all economists to use.",
+      "ask policymakers to conduct experiments for them."],
+      "correctAnswer": "use whatever data the world gives them.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 38,
+      "imageUrl": "",
+      "question": "Models",
+      "options": ["allow economists to learn how the economy works.",
+      "make the economics profession more difficult than necessary.",
+      "based on false assumptions cannot be useful to economists.",
+      "must include every possible variable in the economy to be useful to economists."],
+      "correctAnswer": "allow economists to learn how the economy works.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 39,
+      "imageUrl": "",
+      "question": "When building a model, economists begin by",
+      "options": ["applying for government funding.", "conducting controlled experiments in a lab.",
+      "making assumptions.", "reviewing statistical forecasts."],
+      "correctAnswer": "making assumptions.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 40,
+      "imageUrl": "",
+      "question": "In a simple two-sector circular-flow diagram,",
+      "options": ["firms are sellers in the resource market and the product market.",
+      "households are sellers in the resource market.",
+      "firms are buyers in the product market.",
+      "households are buyers in both the resource market and the product market."],
+      "correctAnswer": "households are sellers in the resource market.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 41,
+      "imageUrl": "",
+      "question": "In a simple two-sector circular-flow diagram,",
+      "options": ["spending on goods and services flow from firms to households.",
+      "goods and services flow from households to firms.",
+      "factors of production flow from firms to households.",
+      "income from factors of production flows from firms to households."],
+      "correctAnswer": "income from factors of production flows from firms to households.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 42,
+      "imageUrl": "../assets/images/photos/question1/Q2b6.png",
+      "question": "In the circular-flow diagram shown, boxes A and B represent",
+      "options": ["households and firms.", "government and the foreign sector.",
+      "the goods and services market and the factors of production market.",
+      "households and government."],
+      "correctAnswer": "households and firms.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 43,
+      "imageUrl": "../assets/images/photos/question1/Q2b6.png",
+      "question": "In the circular-flow diagram shown, boxes C and D represent",
+      "options": ["households and firms.", "the goods and services market and the financial market.",
+      "the goods and services market and the factors of production market.",
+      "households and government."],
+      "correctAnswer": "the goods and services market and the factors of production market.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 44,
+      "imageUrl": "",
+      "question": "Which of the following statements about production possibilities frontiers is correct?",
+      "options": ["An economy can produce only on its production possibilities frontier.",
+      "More than one point on a production possibilities frontier can be produced if there is an increase in available resources.",
+      "An economy can produce at any point on or inside the production possibilities frontier.",
+      "An economy can produce at any point outside the production possibilities frontier."],
+      "correctAnswer": "An economy can produce at any point on or inside the production possibilities frontier.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 45,
+      "imageUrl": "",
+      "question": "A point that is on a production possibilities frontier represents a combination of two goods that an economy",
+      "options": ["will never be able to produce.", "can produce using all available resources and technology.",
+      "can produce using some of its resources and technology.",
+      "may be able to produce sometime in the future with additional resources and technology."],
+      "correctAnswer": "can produce using all available resources and technology.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 46,
+      "imageUrl": "",
+      "question": "Macroeconomics is concerned primarily with the",
+      "options": ["way things are produced.", "prices of particular goods and services.",
+      "behavior of consumers.", "study of economy-wide phenomena."],
+      "correctAnswer": "study of economy-wide phenomena.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 47,
+      "imageUrl": "",
+      "question": "“The government should use any budget surplus to reduce taxes instead of paying down the national debt” is an example of",
+      "options": ["a positive economic statement.", "sound fiscal management.",
+      "a normative economic statement.", "a welfare statement."],
+      "correctAnswer": "a normative economic statement.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 48,
+      "imageUrl": "",
+      "question": "Economists from the Treasury Department provide",
+      "options": ["the annual Economic Report of the President.",
+      "advice on tax policy to the President.", "enforcement of the U. S. Antitrust laws.",
+      "Congress with the annual budget."],
+      "correctAnswer": "advice on tax policy to the President.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 49,
+      "imageUrl": "",
+      "question": "If labor in Mexico is less productive than labor in the United States in all areas of production,",
+      "options": ["neither nation can benefit from trade.",
+      "Mexico can benefit from trade but the United States cannot.",
+      "both nations can benefit from trade.", "Mexico will not have a comparative advantage in any good."],
+      "correctAnswer": "both nations can benefit from trade.",
+      "selectedAnswer": null
+    },
+    {
+      "id": 50,
+      "imageUrl": "",
+      "question": "The principle of comparative advantage was developed by",
+      "options": ["Adam Smith.", "Harry Truman.", "David Ricardo.", "John Maynard Keynes."],
+      "correctAnswer": "David Ricardo.",
+      "selectedAnswer": null
+    }
+
+  ]
+}

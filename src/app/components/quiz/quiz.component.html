@@ -1,0 +1,120 @@
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<div>
+  <h2>{{ category | titlecase }} Quiz</h2>
+</div>
+<div>
+  <button mat-raised-button color="accent" class="home-button" routerLink="/home">Go To Home</button>
+</div>
+
+<div class="main-container">
+  <div *ngIf="!quizEnded && quizData">
+    <div class="question-card">
+      <div class="flex-container">
+          <div class="question-logo">
+            <img src="../../../assets/images/photos/mickey1.png" height="50px" alt="logo">
+          </div>
+          <div class="flex-item">
+            <h5 style="font-family: 'Merriweather'; font-weight: 700;">You're about to be tested!</h5>
+            <h5 style="font-family: 'Merriweather'; font-weight: 400;" >Welcome {{username}}</h5>
+          </div>
+      </div>
+      <div class="timer">
+        <h6>Time Remaining: {{ transform(remainingTime) }}</h6>
+        <h6>Question {{currentQuestionIndex+1}} of {{quizData.length}}</h6>
+        <h6>{{ totalPoints }} Points</h6>
+      </div>
+      <div class="progress m-3">
+        <div class="progress-bar progress-bar-striped bg-black" id= "myprogressBar" role="progressbar" [ngStyle]="{'width': (currentQuestionIndex+1)/(quizData.length)*100+'%'}" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+     </div>
+      <div>
+        <div class="image-flex-container">
+          <div class="image-flex-item">
+            <img [src]="quizData[currentQuestionIndex]?.imageUrl || '../../../assets/images/photos/defaultPic.png'" alt="Question Image" />
+          </div>
+        </div>
+
+        <!-- <div class="question-card">
+          <h3>{{ quizData[currentQuestionIndex].question }}</h3>
+        </div> -->
+
+        <div class="question-card">
+          <mat-card>
+            <mat-card-title>Question {{ currentQuestionIndex + 1 }}</mat-card-title>
+            <mat-card-content>
+              <p>{{ quizData[currentQuestionIndex]?.question }}</p>
+              <div class="mat-radio-button ">
+                <mat-radio-group [(ngModel)]="quizData[currentQuestionIndex].selectedAnswer">
+                  <mat-radio-button
+                  *ngFor="let option of quizData[currentQuestionIndex]?.options; let i = index"
+                  [value]="option"
+                  [ngStyle]="{
+                    'background-color': isOptionSelected(option) ? isOptionCorrect(option) ? 'green' : 'red' : ''
+                  }">
+                    {{ option }}
+                  </mat-radio-button>
+                </mat-radio-group>
+              </div>
+            </mat-card-content>
+          </mat-card>
+        </div>
+
+        <!-- <div class="question-option">
+          <ul>
+            <li *ngFor="let option of quizData[currentQuestionIndex].options">
+              <label>
+                <input
+                  type="radio"
+                  name="selectedOption"
+                  [(ngModel)]="quizData[currentQuestionIndex].selectedAnswer"
+                  [value]="option"
+                />
+                {{ option }}
+              </label>
+            </li>
+          </ul>
+        </div> -->
+
+      </div>
+        <div class="navigation-buttons">
+          <button mat-raised-button color="accent" class="previous-button" (click)="previousQuestion()">Previous</button>
+          <button mat-raised-button color="primary" class="next-button" (click)="nextQuestion()">Next</button>
+        </div>
+        <button mat-raised-button color="warn" class="end-quiz-button" (click)="endQuiz()">End Quiz</button>
+      </div>
+
+    <div>
+    </div>
+
+</div>
+<div *ngIf="quizEnded">
+  <div class="question-card">
+    <div class="flex-container">
+      <div class="results-header">
+        <h5 style="font-family: 'Merriweather'; font-weight: 700; text-wrap: wrap;" >Your test is finished!</h5>
+      </div>
+      <div class="results-header">
+        <h5 style="font-family: 'Merriweather'; font-weight: 400; text-wrap: wrap;" >Results for {{username}}</h5>
+      </div>
+        <div class="question-logo">
+          <img src="../../../assets/images/photos/mickey2.png" height="250px" alt="logo">
+        </div>
+    </div>
+    <div class="results">
+      <h2 class="results-page">Congrats!!</h2>
+      <h2 class="results-page">Your results are:</h2>
+      <h4>Total Correct Answers: {{ correctAnswers }}</h4>
+      <h4>Total Incorrect Answers: {{ incorrectAnswers }}</h4>
+      <h4>Total Questions: {{ totalQuestions }}</h4>
+      <h4>Total Points: {{ totalPoints }}</h4>
+      <h4>Number of Unanswered Questions: {{ unansweredQuestions }}</h4>
+      <h4>Time Left on the Clock: {{ remainingTime }} seconds</h4>
+    </div>
+
+    <button class="retake-button" routerLink="/home">Take the quiz again!</button>
+    <button class="next-level-button" routerLink="/home">Move to Next Level!</button>
+  </div>
+
+</div>
+</div>
+
+

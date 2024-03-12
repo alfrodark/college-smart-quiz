@@ -1,0 +1,261 @@
+.flex-container {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  border-radius: 20px;
+  height: 100px;
+  background-color: rgb(243, 235, 235);
+  padding: 3px;
+}
+
+.flex-item {
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 28px;
+}
+
+.results-header {
+  display: flex;
+  align-items:flex-start;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 10px;
+  font-size: 28px;
+}
+
+.main-container {
+  padding: 5px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: rgb(216, 204, 207);
+}
+
+.question-card {
+display: flexbox;
+justify-content: space-between;
+align-items: flex-start;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 22px;
+font-weight: bold;
+max-width: 650px;
+margin: 0 auto;
+margin-bottom: 5px;
+padding: 2px;
+border: 1px solid #e2e2e2;
+border-radius: 15px;
+background-color: white;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.question-logo {
+width: 250px;
+height: 250px;
+object-fit: contain;
+margin-bottom: 2px;
+margin-top: 70px;
+margin-left: 5px;
+}
+
+.results {
+text-align: left;
+color: black;
+font-size: 20px;
+}
+
+.question-option{
+font-size: 35px;
+text-align: left;
+color: black;
+padding: 1px;
+padding-left: 2px;
+border-radius: 25px;
+max-width: 640px;
+background-color: rgb(250, 248, 247);
+}
+
+.previous-button {
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: rgb(226, 223, 40);
+  color: rgb(8, 7, 7);
+  width: 150px;
+  border-radius: 15px;
+  margin-right: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: #212529;
+
+}
+
+.next-button {
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #2e9633;
+  color: white;
+  width: 150px;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: #212529;
+}
+
+.next-previous-buttons{
+  flex: 1;
+  padding: 20px;
+  font-size: 24px;
+  border-radius: 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: rgb(241, 239, 145);
+  color: black;
+}
+
+.vertical-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.horizontal-container {
+  display: flex;
+  height: 20px;
+  max-width: 650px;
+  margin-top: 5px;
+  padding-right: 2px;
+  justify-content: space-around;
+}
+
+.next-level-button{
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: rgb(241, 42, 109);
+  color: white;
+  width: 200px;
+  border-radius: 15px;
+  /* margin-left: 80px; */
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: #212529;
+}
+
+.end-quiz-button{
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: rgb(235, 24, 42);
+  color: white;
+  width: 150px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: #212529;
+}
+
+.retake-button{
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: rgb(19, 20, 19);
+  color: white;
+  width: 200px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: #212529;
+}
+
+.home-button{
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: rgb(110, 212, 101);
+  color: white;
+  width: 200px;
+  border-radius: 12px;
+  padding: 10px;
+  box-shadow: #212529;
+}
+
+.results-page{
+  font-size: x-large;
+  justify-self: center;
+  color: rgb(236, 38, 114);
+  font-style: italic;
+}
+
+.image-flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5px;
+}
+
+.image-flex-item {
+  flex: 1 0 250px;
+  margin: 2px;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.timer {
+  font-size: 25px;
+  height: 65px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+mat-radio-button {
+  font-size: 45px;
+  font-weight: bold;
+  text-align: left;
+  color: black;
+  margin-top: 3px;
+  display: block;
+  transition: background-color 0.3s ease-in-out;
+}
+
+mat-radio-button:hover {
+  background-color: #e0e0e0; /* Add a light background color on hover */
+}
+
+::ng-deep .mat-radio-group label.mat-radio-label {
+font-size: 30px;
+}
+
+::ng-deep .mat-radio-button {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+

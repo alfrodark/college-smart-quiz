@@ -1,0 +1,102 @@
+.home-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.name-field{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+}
+
+.button-group {
+  margin-top: 20px;
+}
+
+.image-card {
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  max-width: 400px;
+  height: auto;
+  border: 1px solid #e2e2e2;
+  background-color: rgb(212, 203, 212);
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 20px;
+}
+
+.grid-item {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.question-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 2px;
+}
+
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  color: #666;
+}
+
+.question-option{
+  font-size: large;
+  text-align: left;
+  padding: 2px;
+  padding-left: 2px;
+  border-radius: 20px;
+  background-color: #f8f6f6;
+}
+
+.hand-cursor {
+  cursor: pointer;
+}
+
+.hand-cursor:hover {
+  background-color: lightblue;
+  border: 1px solid darkblue;
+}
+
+.client-form-container {
+  max-width: 1000px;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+
+.main-container {
+  padding: 5px;
+  border-radius: 10px;
+  font-size: large;
+  text-align: justify;
+  background-color: rgb(230, 225, 225);
+}
+
+.sub-container{
+  border-radius: 10px;
+  text-align: justify;
+  background-color: white;
+}
+
+button:hover {
+  background-color: rgb(241, 239, 145);
+  color: black;
+}

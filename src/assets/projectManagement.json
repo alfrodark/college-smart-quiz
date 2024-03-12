@@ -1,0 +1,469 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "imageUrl": "",
+        "question": "Project managers spend what percentage of their time communicating?",
+        "options": ["90", "85", "75", "50"],
+        "correctAnswer": "90",
+        "selectedAnswer": null
+      },
+      {
+        "id": 2,
+        "imageUrl": "",
+        "question": "Inspections are also called each of the following except for which one?",
+        "options": ["Reviews", "Assessment", "Walk-throughs", "Audits"],
+        "correctAnswer": "Assessment",
+        "selectedAnswer": null
+      },
+      {
+        "id": 3,
+        "imageUrl": "",
+        "question": "The primary function of the Closing processes is to perform which of the following?",
+        "options": ["Formalize lessons learned and distribute this information to project participants.",
+        "Perform audits to verify the project results against the project requirements.",
+        "Formalize project completion and disseminate this information to project participants.",
+        "Perform post-implementation audits to document project successes and failures." ],
+        "correctAnswer": "Formalize project completion and disseminate this information to project participants.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 4,
+        "imageUrl": "",
+        "question": "All of the following statements are true regarding Ishikawa diagrams in the Identify Risks process except which one?",
+        "options": ["Ishikawa diagrams are also called cause-and-effect diagrams.",
+        "Ishikawa diagrams are also called fishbone diagrams.",
+        "Ishikawa diagrams are part of the diagramming tool and technique of this process.",
+        "Ishikawa diagrams show the steps needed to identify the risk."],
+        "correctAnswer": "Ishikawa diagrams show the steps needed to identify the risk.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 5,
+        "imageUrl": "",
+        "question": "All of the following are outputs of the Perform Integrated Change Control process except for which one?",
+        "options": ["Change request status updates", "Project management plan updates",
+        "Organizational process assets updates", "Project document updates"],
+        "correctAnswer": "Organizational process assets updates",
+        "selectedAnswer": null
+      },
+      {
+        "id": 6,
+        "imageUrl": "",
+        "question": "What is one of the most important skills a project manager can have?",
+        "options": ["Negotiation skills", "Influencing skills", "Communication skills",
+        "Problem-solving skills"],
+        "correctAnswer": "Communication skills",
+        "selectedAnswer": null
+      },
+      {
+        "id": 7,
+        "imageUrl": "",
+        "question": "All of the following are a type of project ending except for which one?",
+        "options": ["Extinction", "Starvation", "Desertion", "Addition"],
+        "correctAnswer": "Desertion",
+        "selectedAnswer": null
+      },
+      {
+        "id": 8,
+        "imageUrl": "",
+        "question": "You are the project manger for Xylophone Phonics. It produces children’s software programs that teach basic reading and math skills. You’re performing cost estimates for your project and don’t have a lot of details yet. Which of the following techniques should you use?",
+        "options": ["Analogous estimating techniques, because this is a form of expert judgment that uses historical information from similar projects",
+        "Bottom-up estimating techniques, because this is a form of expert judgment that uses historical information from similar projects",
+        "Monte Carlo analysis, because this is a modeling technique that uses simulation to determine estimates",
+        "Parametric modeling, because this is a form of simulation used to determine estimates"],
+        "correctAnswer": "Analogous estimating techniques, because this is a form of expert judgment that uses historical information from similar projects",
+        "selectedAnswer": null
+      },
+      {
+        "id": 9,
+        "imageUrl": "",
+        "question": "Project managers have the highest level of authority and the most power in which type of organizational structure?",
+        "options": ["Projectized", "Strong matrix", "Functional", "Balanced matrix"],
+        "correctAnswer": "Projectized",
+        "selectedAnswer": null
+      },
+      {
+        "id": 10,
+        "imageUrl": "",
+        "question": "This process is concerned with determining the information stakeholders will need throughout the project and the methods of communication.",
+        "options": ["Distribute Information", "Report Performance",
+        "Plan Communications", "Identify Stakeholder Needs"],
+        "correctAnswer": "Plan Communications",
+        "selectedAnswer": null
+      },
+      {
+        "id": 11,
+        "imageUrl": "",
+        "question": "All of the following statements are true regarding risk events except which one? Choose the least correct answer.",
+        "options": ["Project risks are uncertain events.",
+        "If risks occur, they can have a positive or negative effect on project objectives.",
+        "Unknown risks are threats to the project objectives, and nothing can be done to plan for them.",
+        "Risks that have more perceived rewards to the organization than consequences should be accepted."],
+        "correctAnswer": "Unknown risks are threats to the project objectives, and nothing can be done to plan for them.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 12,
+        "imageUrl": "",
+        "question": "This process applies evaluation criteria to the bids and proposals received from potential vendors.",
+        "options": ["Plan Procurements", "Administer Procurements",
+        "Conduct Procurements", "Perform Quality Assurance"],
+        "correctAnswer": "Conduct Procurements",
+        "selectedAnswer": null
+      },
+      {
+        "id": 13,
+        "imageUrl": "",
+        "question": "You know that PV = 470, AC = 430, EV = 480, EAC = 500, and BAC = 525. What is VAC?",
+        "options": ["70", "20", "25", "30"],
+        "correctAnswer": "25",
+        "selectedAnswer": null
+      },
+      {
+        "id": 14,
+        "imageUrl": "",
+        "question": "Which of the following compression techniques increases risk?",
+        "options": ["Crashing", "Resource leveling", "Fast tracking", "Lead and lag"],
+        "correctAnswer": "Fast tracking",
+        "selectedAnswer": null
+      },
+      {
+        "id": 15,
+        "imageUrl": "",
+        "question": "Name the ethical code you’ll be required to adhere to as a PMP.",
+        "options": ["Project Management Policy and Ethics Code",
+        "PMI Standards and Ethics Code of Conduct",
+        "Project Management Code of Professional Ethics",
+        "PMI Code of Ethics and Professional Conduct"],
+        "correctAnswer": "PMI Code of Ethics and Professional Conduct",
+        "selectedAnswer": null
+      },
+      {
+        "id": 16,
+        "imageUrl": "",
+        "question": "You are the project manager for Lucky Stars Candies. You’ve identified the requirements for the project and documented them where?",
+        "options": ["In the requirements document, which will be used as an input to the Create WBS process",
+        "In the project scope statement, which is used as an input to the Create WBS process",
+        "In the product requirements document, which is an output of the Define Scope process",
+        "In the project specifications document, which is an output of the Define Scope process"],
+        "correctAnswer": "In the requirements document, which will be used as an input to the Create WBS process",
+        "selectedAnswer": null
+      },
+      {
+        "id": 17,
+        "imageUrl": "",
+        "question": "What is the purpose of the project charter?",
+        "options": ["To recognize and acknowledge the project sponsor",
+        "To recognize and acknowledge the existence of the project and commit organizational resources to the project",
+        "To acknowledge the existence of the project team, project manager, and project sponsor",
+        "To describe the selection methods used to choose this project over its competitors"],
+        "correctAnswer": "To recognize and acknowledge the existence of the project and commit organizational resources to the project",
+        "selectedAnswer": null
+      },
+      {
+        "id": 18,
+        "imageUrl": "",
+        "question": "Which of the following are tools and techniques of the Identify Stakeholder process?",
+        "options": ["Stakeholder analysis and expert judgment",
+        "Stakeholder analysis, expert judgment, and stakeholder register",
+        "Stakeholder analysis",
+        "Stakeholder analysis, stakeholder management strategy, and expert judgment"],
+        "correctAnswer": "Stakeholder analysis and expert judgment",
+        "selectedAnswer": null
+      },
+      {
+        "id": 19,
+        "imageUrl": "",
+        "question": "You are a project manager working on a software development project. You’ve developed the risk management plan, identified risks, and determined risk responses for the risks. A risk event occurs, and you implement the response. Then, another risk event occurs as a result of the response you implemented. What type of risk is this called?",
+        "options": ["Trigger risk", "Residual risk", "Secondary risk", "Mitigated risk"],
+        "correctAnswer": "Secondary risk",
+        "selectedAnswer": null
+      },
+      {
+        "id": 20,
+        "imageUrl": "",
+        "question": "You are working on a project that will upgrade the phone system in your customer service center. You have used analogous estimating, parametric estimating, bottom-up estimating, and three-point estimates to determine activity costs. Which process does this describe?",
+        "options": ["Estimating Activity Resources", "Estimate Costs", "Determine Budget", "Estimating Activity Costs"],
+        "correctAnswer": "Estimate Costs",
+        "selectedAnswer": null
+      },
+      {
+        "id": 21,
+        "imageUrl": "",
+        "question": "Failure costs are also known as which of the following?",
+        "options": ["Internal costs", "Cost of poor quality",
+        "Cost of keeping defects out of the hands of customers", "Prevention costs"],
+        "correctAnswer": "Cost of poor quality",
+        "selectedAnswer": null
+      },
+      {
+        "id": 22,
+        "imageUrl": "",
+        "question": "Feeding buffers and the project buffer are part of which of the following Develop Schedule tool and technique?",
+        "options": ["Critical path method", "Schedule network analysis", "Applying leads and lags",
+        "Critical chain method"],
+        "correctAnswer": "Critical chain method",
+        "selectedAnswer": null
+      },
+      {
+        "id": 23,
+        "imageUrl": "",
+        "question": "Each of the following statements describes an element of the Develop Project Management Plan process except for which one?",
+        "options": ["Project charter", "Outputs from other planning processes",
+        "Configuration management system", "Organizational process assets"],
+        "correctAnswer": "Configuration management system",
+        "selectedAnswer": null
+      },
+      {
+        "id": 24,
+        "imageUrl": "",
+        "question": "Monte Carlo analysis can help predict the impact of risks on project deliverables. This is an element of one of the tools and techniques of which of the following processes?",
+        "options": ["Plan Risk Responses", "Perform Quantitative Risk Analysis", "Identify Risks",
+        "Perform Qualitative Risk Analysis"],
+        "correctAnswer": "Perform Quantitative Risk Analysis",
+        "selectedAnswer": null
+      },
+      {
+        "id": 25,
+        "imageUrl": "",
+        "question": "All of the following statements are true regarding configuration management except which one?",
+        "options": ["Configuration management requires acceptance decisions for all change requests to be made through the CCB.",
+        "Change control systems are a subset of the configuration management system.",
+        "Configuration management focuses on the specifications of the deliverables of the project.",
+        "Configuration management validates and improves the project by evaluating the impact of each change."],
+        "correctAnswer": "Configuration management requires acceptance decisions for all change requests to be made through the CCB.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 26,
+        "imageUrl": "",
+        "question": "Which performance measurement tells you what the projected total cost of the project will be at completion?",
+        "options": ["ETC", "EV", "AC", "EAC"],
+        "correctAnswer": "EAC",
+        "selectedAnswer": null
+      },
+      {
+        "id": 27,
+        "imageUrl": "",
+        "question": "Which of the following contracts should you use for projects that have a degree of uncertainty and require a large investment early in the project life cycle?",
+        "options": ["Fixed price", "Cost reimbursable", "Lump sum", "T&M"],
+        "correctAnswer": "Cost reimbursable",
+        "selectedAnswer": null
+      },
+      {
+        "id": 28,
+        "imageUrl": "",
+        "question": "According to the PMBOK® Guide, the project manager is identified and assigned during which process?",
+        "options": ["During the Develop Project Charter process",
+        "At the conclusion of the Develop Project Charter process",
+        "Prior to beginning the Planning processes", "Prior to beginning the Define Scope process"],
+        "correctAnswer": "During the Develop Project Charter process",
+        "selectedAnswer": null
+      },
+      {
+        "id": 29,
+        "imageUrl": "",
+        "question": "All of the following are tools and techniques of the Close Procurements process except for which one?",
+        "options": ["Expert judgment", "Procurement audits", "Negotiated settlements", "Records management system"],
+        "correctAnswer": "Expert judgment",
+        "selectedAnswer": null
+      },
+      {
+        "id": 30,
+        "imageUrl": "",
+        "question": "The inputs of the Report Performance process include all of the following except for which one?",
+        "options": ["Work performance information", "Work performance measurements",
+        "Budget forecasts", "Performance reviews"],
+        "correctAnswer": "Performance reviews",
+        "selectedAnswer": null
+      },
+      {
+        "id": 31,
+        "imageUrl": "",
+        "question": "All of the following statements are true regarding risks except for which one?",
+        "options": ["Risks might be threats to the objectives of the project.",
+        "Risks are certain events that may be threats or opportunities to the objectives of the project.",
+        "Risks might be opportunities to the objectives of the project.",
+        "Risks have causes and consequences."],
+        "correctAnswer": "Risks are certain events that may be threats or opportunities to the objectives of the project.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 32,
+        "imageUrl": "",
+        "question": "Which performance measurement tells you the cost of the work that has been authorized and budgeted for a WBS component?",
+        "options": ["PV", "EV", "AC", "BCWP"],
+        "correctAnswer": "PV",
+        "selectedAnswer": null
+      },
+      {
+        "id": 33,
+        "imageUrl": "",
+        "question": "Which of the following statements is true regarding the Project Management Knowledge Areas?",
+        "options": ["They include Initiation, Planning, Executing, Monitoring and Controlling, and Closing.",
+        "They consist of nine areas that bring together processes that have things in common.",
+        "They consist of five processes that bring together phases of projects that have things in common.",
+        "They include Planning, Executing, and Monitoring and Controlling processes because these three processes are commonly interlinked."],
+        "correctAnswer": "They consist of nine areas that bring together processes that have things in common.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 34,
+        "imageUrl": "",
+        "question": "What are the Define Scope process tools and techniques?",
+        "options": ["Cost benefit analysis, scope baseline, expert judgment, and facilitated workshops",
+        "Product analysis, alternatives identification, and expert judgment",
+        "Product analysis, alternatives identification, expert judgment, and facilitated workshops",
+        "Alternatives identification, stakeholder analysis, and expert judgment"],
+        "correctAnswer": "Product analysis, alternatives identification, expert judgment, and facilitated workshops",
+        "selectedAnswer": null
+      },
+      {
+        "id": 35,
+        "imageUrl": "",
+        "question": "Your team is developing the risk management plan. Which tool and technique of this process is used to develop risk cost elements and schedule activities that will be included in the project budget and schedule?",
+        "options": ["Planning meetings and analysis", "Strategies for both threats and opportunities",
+        "Information gathering techniques", "Risk data quality assessment"],
+        "correctAnswer": "Planning meetings and analysis",
+        "selectedAnswer": null
+      },
+      {
+        "id": 36,
+        "imageUrl": "",
+        "question": "What type of organization experiences the least amount of stress during project closeout?",
+        "options": ["Projectized", "Functional", "Weak matrix", "Strong matrix"],
+        "correctAnswer": "Weak matrix",
+        "selectedAnswer": null
+      },
+      {
+        "id": 37,
+        "imageUrl": "",
+        "question": "You need to convey some very complex, detailed information to the project stakeholders. What is the best method for communicating this kind of information?",
+        "options": ["Verbal", "Vertical", "Horizontal", "Written"],
+        "correctAnswer": "Written",
+        "selectedAnswer": null
+      },
+      {
+        "id": 38,
+        "imageUrl": "",
+        "question": "You are the project manager for Heartthrobs by the Numbers Dating Services. You’re working on an updated Internet site that will display pictures as well as short bios of prospective heartbreakers. You’ve just completed your project staff assignments and published the project team directory. Which process are you in?",
+        "options": ["Develop Human Resource Plan", "Manage Project Team", "Develop Project Team",
+        "Acquire Project Team"],
+        "correctAnswer": "Acquire Project Team",
+        "selectedAnswer": null
+      },
+      {
+        "id": 39,
+        "imageUrl": "",
+        "question": "These diagrams rank-order factors for corrective action by frequency of occurrence. They are also a type of histogram.",
+        "options": ["Control charts", "Process flowcharts", "Scatter diagrams", "Pareto charts"],
+        "correctAnswer": "Pareto charts",
+        "selectedAnswer": null
+      },
+      {
+        "id": 40,
+        "imageUrl": "",
+        "question": "You are a project manager working in a foreign country. You observe that some of your project team members are having a difficult time adjusting to the new culture. You provided them with training on cultural differences and the customs of this country before arriving, but they still seem uncomfortable and disoriented. Which of the following statements is true?",
+        "options": ["This is the result of working with teams of people from two different countries.",
+        "This condition is known as culture shock.", "This is the result of jet lag and travel fatigue.",
+        "This condition is known as global culturalism."],
+        "correctAnswer": "This condition is known as culture shock.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 41,
+        "imageUrl": "",
+        "question": "The project manager has the greatest influence over quality during which process?",
+        "options": ["Plan Quality", "Perform Quality Assurance", "Perform Quality Control",
+        "Perform Quality Change Control"],
+        "correctAnswer": "Perform Quality Assurance",
+        "selectedAnswer": null
+      },
+      {
+        "id": 42,
+        "imageUrl": "",
+        "question": "You are the project manager for a construction company that is building a new city and county office building in your city. You recently looked over the construction site to determine whether the work to date was conforming to the requirements and quality standards. Which tool and technique of the Perform Quality Control process are you using?",
+        "options": ["Defect repair review", "Inspection", "Sampling", "Quality audit"],
+        "correctAnswer": "Inspection",
+        "selectedAnswer": null
+      },
+      {
+        "id": 43,
+        "imageUrl": "",
+        "question": "All of the following statements are true of the project Closing processes except for which one?",
+        "options": ["Probability for success is greatest in the project Closing processes.",
+        "The project manager’s influence is greatest in the project Closing processes.",
+        "The stakeholders’ influence is least in the project Closing processes.",
+        "Risk is greatest in the project Closing processes."],
+        "correctAnswer": "Risk is greatest in the project Closing processes.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 44,
+        "imageUrl": "",
+        "question": "The business need, product scope description, and strategic plan together describe elements of which of the following?",
+        "options": ["Organizational process assets", "Tools and techniques of the Initiating processes",
+        "The project statement of work", "The project charter"],
+        "correctAnswer": "The project statement of work",
+        "selectedAnswer": null
+      },
+      {
+        "id": 45,
+        "imageUrl": "",
+        "question": "People are motivated by the need for achievement, power, or affiliation according to which theory?",
+        "options": ["Expectancy Theory", "Achievement Theory", "Contingency Theory", "Theory X"],
+        "correctAnswer": "Achievement Theory",
+        "selectedAnswer": null
+      },
+      {
+        "id": 46,
+        "imageUrl": "",
+        "question": "As a result of a face-to-face meeting you recently had to discuss the items in your issue log, you have resolved issues and come away with an approved corrective action and an update to the project management plan. Which process does this describe?",
+        "options": ["Manage Stakeholder Expectations", "Report Performance", "Distribute Information",
+        "Manage Project Team"],
+        "correctAnswer": "Manage Stakeholder Expectations",
+        "selectedAnswer": null
+      },
+      {
+        "id": 47,
+        "imageUrl": "",
+        "question": "As a PMP, one of your responsibilities is to ensure integrity on the project. When your personal interests are put above the interests of the project or when you use your influence to cause others to make decisions in your favor without regard for the project outcome, this is considered which of the following?",
+        "options": ["Conflict of interest", "Using professional knowledge inappropriately",
+        "Culturally unacceptable", "Personal conflict issue"],
+        "correctAnswer": "Conflict of interest",
+        "selectedAnswer": null
+      },
+      {
+        "id": 48,
+        "imageUrl": "",
+        "question": "You’ve just completed the WBS. Which of the following statements is true?",
+        "options": ["The WBS breaks the project deliverables down to a level where alternatives identification can be used to determine how level-two assignments should be made.",
+        "The WBS breaks the project deliverables down to a level where project constraints and assumptions can be easily identified.",
+        "The WBS breaks the project deliverables down to the work package level, where product analysis can be documented.",
+        "The WBS breaks the project deliverables down to the work package level, where cost and time estimates can be easily determined."],
+        "correctAnswer": "The WBS breaks the project deliverables down to the work package level, where cost and time estimates can be easily determined.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 49,
+        "imageUrl": "",
+        "question": "Which of the following describes the Executing process group?",
+        "options": ["Project plans are put into action.", "Project performance measurements are taken and analyzed.",
+        "Project plans are developed.", "Project plans are published."],
+        "correctAnswer": "Project plans are put into action.",
+        "selectedAnswer": null
+      },
+      {
+        "id": 50,
+        "imageUrl": "",
+        "question": "All of the following statements are true regarding the ADM method except which one?",
+        "options": ["The ADM method is a tool and technique of Sequence Activities.",
+        "The ADM method uses one time estimate to determine durations.",
+        "The ADM method is also called AOA.", "The ADM method is rarely used today."],
+        "correctAnswer": "The ADM method uses one time estimate to determine durations.",
+        "selectedAnswer": null
+      }
+
+    ]
+  }

@@ -1,0 +1,61 @@
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<div class="home-container">
+  <h1>Welcome to the College Smart Quiz!</h1>
+  <h2>Choose a category to start the quiz:</h2>
+</div>
+<div class="name-field">
+  <label for="myInput">Enter your name : </label>
+  <input required aria-label="Username" type="text" class="form-control  myClassInput" id="thinkTank" #username>
+<p id="errorMsg" class="errorMsg">*This field is required!</p>
+</div>
+
+<div class="main-container">
+  <div class="client-form-container">
+    <div class="sub-container">
+      <div class="client-form-container">
+        <div class="grid-container">
+          <!-- <div class="grid-item">
+            <div class="image-card">
+              <div>
+                <button mat-raised-button color="accent" class="image-card" title="Mathematics" (click)="startQuiz('math')">
+                  <img #imageElement alt="" src="../../../assets/images/logos/mathsLogo.jpg" id="math" class="form-control" height="200px"/>
+                </button>
+              </div>
+            </div>
+          </div> -->
+          <!-- <div class="grid-item">
+            <div class="image-card">
+              <div>
+                <button mat-raised-button color="accent" class="image-card"  title="science" >
+                  <img #imageElement3 alt="" src="../../../assets/images/logos/scienceLogo.png" id="science" (click)="startQuiz('science')" class="form-control" height="200px"/>
+                </button>
+              </div>
+            </div>
+          </div> -->
+          <div class="grid-item">
+            <div class="image-card">
+              <div>
+                <button mat-raised-button color="accent" class="image-card"  title="Economics" >
+                  <img #imageElement3 alt="" src="../../../assets/images/logos/economicsLogo.png" id="economics" (click)="startQuiz('economics')" class="form-control" height="200px"/>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="grid-item">
+            <div class="image-card">
+              <div>
+                <button mat-raised-button color="accent" class="image-card"  title="Project Management" >
+                  <img #imageElement3 alt="" src="../../../assets/images/logos/projectManagementLogo.png" id="projectManagement" (click)="startQuiz('projectManagement')" class="form-control" height="200px"/>
+                </button>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
